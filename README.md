@@ -3,7 +3,7 @@ This is a simple tool built in python that enables you to generate test tokens f
 
 
 
-To get started, make sure to add your stripe key inside main.py
+**To get started, make sure to add your stripe key inside main.py**
 
 
 
